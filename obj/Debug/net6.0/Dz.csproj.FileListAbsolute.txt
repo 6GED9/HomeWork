@@ -1,0 +1,15 @@
+/Users/wudisluv/Документ/programs/Dz/Dz/bin/Debug/net6.0/Dz
+/Users/wudisluv/Документ/programs/Dz/Dz/bin/Debug/net6.0/Dz.deps.json
+/Users/wudisluv/Документ/programs/Dz/Dz/bin/Debug/net6.0/Dz.runtimeconfig.json
+/Users/wudisluv/Документ/programs/Dz/Dz/bin/Debug/net6.0/Dz.dll
+/Users/wudisluv/Документ/programs/Dz/Dz/bin/Debug/net6.0/Dz.pdb
+/Users/wudisluv/Документ/programs/Dz/Dz/obj/Debug/net6.0/Dz.csproj.AssemblyReference.cache
+/Users/wudisluv/Документ/programs/Dz/Dz/obj/Debug/net6.0/Dz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wudisluv/Документ/programs/Dz/Dz/obj/Debug/net6.0/Dz.AssemblyInfoInputs.cache
+/Users/wudisluv/Документ/programs/Dz/Dz/obj/Debug/net6.0/Dz.AssemblyInfo.cs
+/Users/wudisluv/Документ/programs/Dz/Dz/obj/Debug/net6.0/Dz.csproj.CoreCompileInputs.cache
+/Users/wudisluv/Документ/programs/Dz/Dz/obj/Debug/net6.0/Dz.dll
+/Users/wudisluv/Документ/programs/Dz/Dz/obj/Debug/net6.0/refint/Dz.dll
+/Users/wudisluv/Документ/programs/Dz/Dz/obj/Debug/net6.0/Dz.pdb
+/Users/wudisluv/Документ/programs/Dz/Dz/obj/Debug/net6.0/Dz.genruntimeconfig.cache
+/Users/wudisluv/Документ/programs/Dz/Dz/obj/Debug/net6.0/ref/Dz.dll
